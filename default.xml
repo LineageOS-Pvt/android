@@ -5,11 +5,17 @@
            fetch=".."
            review="review.lineageos.org" />
 
+  <remote  name="bliss"
+           fetch="https://github.com/BlissRoms-Devices" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
   <remote  name="Pvt"
            fetch="https://github.com/LineageOS-Pvt" />
+  
+  <remote  name="s"  
+           fetch="https://github.com/SwapnilVicky" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
