@@ -8,6 +8,7 @@
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="Pvt" revision="lineage-18.1" />
 <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="Pvt" revision="lineage-18.1" />
 <project path="system/core" name="android_system_core" remote="Pvt" revision="lineage-18.1" />
+<project path="system/iorap" name="android_system_iorap" remote="Pvt" revision="lineage-18.1" />
 <project path="system/sepolicy" name="android_system_sepolicy" remote="Pvt" revision="lineage-18.1" />
 <project path="vendor/lineage" name="android_vendor_lineage" remote="Pvt" revision="lineage-18.1" />
 
