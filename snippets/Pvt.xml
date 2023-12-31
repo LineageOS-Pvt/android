@@ -14,6 +14,7 @@
 <project path="system/iorap" name="android_system_iorap" remote="Pvt" revision="lineage-18.1" />
 <project path="system/sepolicy" name="android_system_sepolicy" remote="Pvt" revision="lineage-18.1" />
 <project path="vendor/lineage" name="android_vendor_lineage" remote="Pvt" revision="lineage-18.1" />
+<project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" remote="Pvt" revision="lineage-18.1" />
 
 <project path="build/make" name="android_build" remote="Pvt" revision="lineage-18.1" groups="pdk" >
 <copyfile src="core/root.mk" dest="Makefile" />
