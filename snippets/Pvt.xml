@@ -3,6 +3,9 @@
 
 <project path="frameworks/av" name="android_frameworks_av" remote="Pvt" revision="lineage-18.1" />
 <project path="frameworks/base" name="android_frameworks_base" remote="Pvt" revision="lineage-18.1" />
+
+<project path="hardware/qcom-caf/thermal" name="android_hardware_qcom_thermal" remote="Pvt" revision="lineage-18.1" />
+
 <project path="lineage-sdk" name="android_lineage-sdk" remote="Pvt" revision="lineage-18.1" />
 <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="Pvt" revision="lineage-18.1" />
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="Pvt" revision="lineage-18.1" />
