@@ -11,6 +11,7 @@
    <linkfile src="tools" dest="build/tools" />
 </project>
 
+<project path="external/freetype" name="android_external_freetype" remote="Pvt" revision="lineage-17.1" />
 <project path="external/zlib" name="android_external_zlib" remote="Pvt" revision="lineage-17.1" />
 <project path="frameworks/av" name="android_frameworks_av" remote="Pvt" revision="lineage-17.1" />
 <project path="frameworks/base" name="android_frameworks_base" remote="Pvt" revision="lineage-17.1" />
@@ -27,6 +28,7 @@
 <project path="system/bt" name="android_system_bt" remote="Pvt" revision="lineage-17.1" />
 <project path="system/core" name="android_system_core" remote="Pvt" revision="lineage-17.1" />
 <project path="system/nfc" name="android_system_nfc" remote="Pvt" revision="lineage-17.1" />
+<project path="tools/apksig" name="android_tools_apksig" remote="Pvt" revision="lineage-17.1" />
 <project path="vendor/lineage" name="android_vendor_lineage" remote="Pvt" revision="lineage-17.1" />
 <project path="vendor/qcom/opensource/commonsys/system/bt" name="android_vendor_qcom_opensource_system_bt" remote="Pvt" revision="lineage-17.1" />
 
