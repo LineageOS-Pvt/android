@@ -19,6 +19,7 @@
 <project path="frameworks/native" name="android_frameworks_native" remote="Pvt" revision="lineage-17.1" />
 <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="Pvt" revision="lineage-17.1" />
 <project path="packages/apps/Car/Settings" name="android_packages_apps_Car_Settings" remote="Pvt" revision="lineage-17.1" />
+<project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="Pvt" revision="lineage-17.1" />
 <project path="packages/apps/PermissionController" name="android_packages_apps_PackageInstaller" remote="Pvt" revision="lineage-17.1" />
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="Pvt" revision="lineage-17.1" />
 <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="Pvt" revision="lineage-17.1" />
@@ -27,12 +28,14 @@
 <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="Pvt" revision="lineage-17.1" />
 <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="Pvt" revision="lineage-17.1" />
 <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="Pvt" revision="lineage-17.1" />
+<project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="Pvt" revision="lineage-17.1" />
 <project path="system/bt" name="android_system_bt" remote="Pvt" revision="lineage-17.1" />
 <project path="system/ca-certificates" name="android_system_ca-certificates" remote="Pvt" revision="lineage-17.1" />
 <project path="system/core" name="android_system_core" remote="Pvt" revision="lineage-17.1" />
 <project path="system/nfc" name="android_system_nfc" remote="Pvt" revision="lineage-17.1" />
 <project path="tools/apksig" name="android_tools_apksig" remote="Pvt" revision="lineage-17.1" />
 <project path="vendor/lineage" name="android_vendor_lineage" remote="Pvt" revision="lineage-17.1" />
+<project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="android_vendor_nxp_opensource_packages_apps_Nfc" remote="Pvt" revision="lineage-17.1" />
 <project path="vendor/qcom/opensource/commonsys/system/bt" name="android_vendor_qcom_opensource_system_bt" remote="Pvt" revision="lineage-17.1" />
 
 <!-- Proton Clang -->
